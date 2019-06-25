@@ -3,7 +3,8 @@ room_list = [
 	room_minus_y,
 	room_sorted_batch,
 	room_z_tilting_shader,
-	room_z_tilting_custom
+	//room_z_tilting_custom,
+	//room_z_lifting
 ];
 
 num_rooms = array_length_1d(room_list);
