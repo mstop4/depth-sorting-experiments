@@ -1,8 +1,8 @@
 {
-    "id": "27f9f53f-5196-43ef-89db-120c96841adf",
+    "id": "4dfe1270-636c-4a8f-9f54-10d8235f8615",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tall",
+    "name": "obj_minus_y",
     "eventList": [
         
     ],
