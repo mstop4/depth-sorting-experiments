@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_player_z_tilting_shader",
     "eventList": [
-        
+        {
+            "id": "7c6cc27f-e97e-4639-9804-2fe62a8d7d14",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "572455d8-834b-460c-ac51-6a9c24ce12a3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

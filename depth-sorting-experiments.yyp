@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "4daf363b-6376-47dd-8bd0-0224beea3789",
+            "Value": {
+                "id": "5c3c2b2d-87ab-4da8-9dbb-aa21cae257db",
+                "resourcePath": "scripts\\z_tilt_start\\z_tilt_start.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4df2726a-d159-489a-ad3c-25821f2fadb0",
             "Value": {
                 "id": "eb8c165b-3ae8-4000-ae6a-876b271cba42",
@@ -204,6 +212,14 @@
                 "id": "7c85a016-d5af-4edf-aca3-e1c444bdf10c",
                 "resourcePath": "views\\64bdfc80-7f5d-4525-bac3-fe53df4e2492.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "69a13c21-f757-449a-b3bf-74c66787a3ac",
+            "Value": {
+                "id": "e04af2c0-3370-4b9f-8b39-4d2734246b2f",
+                "resourcePath": "shaders\\shd_z_tilt\\shd_z_tilt.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -327,6 +343,14 @@
             }
         },
         {
+            "Key": "bacba216-073b-44ef-bfc5-7206a834c725",
+            "Value": {
+                "id": "0262813d-709e-459a-a2b0-b2ce2178e66e",
+                "resourcePath": "scripts\\z_tilt_end\\z_tilt_end.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c0180241-6339-4db4-91ac-1aeac8facf5c",
             "Value": {
                 "id": "021792f3-0084-4d34-bcc4-cffdd777b144",
@@ -408,7 +432,8 @@
         }
     ],
     "script_order": [
-        
+        "4daf363b-6376-47dd-8bd0-0224beea3789",
+        "bacba216-073b-44ef-bfc5-7206a834c725"
     ],
     "tutorial": ""
 }
