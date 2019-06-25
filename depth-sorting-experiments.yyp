@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "1e8ac34d-33db-4581-b13c-3735d8b92b1a",
+            "Value": {
+                "id": "3bb657ed-a320-45a9-a3aa-40233c86d8fe",
+                "resourcePath": "sprites\\spr_tall\\spr_tall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27f9f53f-5196-43ef-89db-120c96841adf",
+            "Value": {
+                "id": "f68ce80f-5471-4f61-8069-2040c9999daf",
+                "resourcePath": "objects\\obj_tall\\obj_tall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29812c38-6b1c-4841-bbc3-9da896d94a71",
             "Value": {
                 "id": "18fa6182-2a61-458a-af67-62586d4c48ab",
@@ -172,6 +188,14 @@
                 "id": "0129c916-ce95-4026-a99e-eaa0bcbfbcba",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b1cde493-22de-44e9-bd98-fd90d1fc26dd",
+            "Value": {
+                "id": "8fad245a-9077-4667-99e0-3da7258fd60a",
+                "resourcePath": "objects\\obj_fps\\obj_fps.yy",
+                "resourceType": "GMObject"
             }
         },
         {
