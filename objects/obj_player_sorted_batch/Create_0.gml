@@ -1,0 +1,1 @@
+batch_queue = ds_priority_create();
