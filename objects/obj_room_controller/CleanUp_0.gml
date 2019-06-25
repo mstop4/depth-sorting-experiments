@@ -1,0 +1,1 @@
+vertex_format_delete(global.v_form);

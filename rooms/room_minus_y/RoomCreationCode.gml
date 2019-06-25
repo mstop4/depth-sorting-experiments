@@ -1,1 +1,1 @@
-global.room_title = "Depth - y";
+global.room_title = "Depth = -y";
