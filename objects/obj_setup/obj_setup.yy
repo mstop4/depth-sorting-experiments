@@ -41,9 +41,23 @@
             "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
-            "resourceFilter": 1023,
+            "resourceFilter": 256,
             "value": "obj_baseline",
             "varName": "thing_id",
+            "varType": 5
+        },
+        {
+            "id": "44a31c7b-3e85-461f-9d1d-cf2f5343dd37",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 256,
+            "value": "obj_player_baseline",
+            "varName": "player_id",
             "varType": 5
         },
         {
