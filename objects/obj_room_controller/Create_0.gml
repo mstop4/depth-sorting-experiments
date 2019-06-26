@@ -4,7 +4,8 @@ room_list = [
 	room_sorted_batch,
 	room_z_tilting_shader,
 	//room_z_tilting_custom,
-	//room_z_lifting
+	//room_z_lifting,
+	room_grid_layers
 ];
 
 num_rooms = array_length_1d(room_list);
